@@ -37,28 +37,36 @@ Procedure
 
 Program:
 Half Subtracter:
-WhatsApp Image 2023-12-29 at 22 54 09_26105274
+![Screenshot 2023-12-29 232521](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/ae006828-1da2-4b16-b6e7-1687e141026c)
+
 
 Full Subtracter:
-WhatsApp Image 2023-12-29 at 22 55 13_834f9799
+![Screenshot 2023-12-29 232514](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/423d296d-7713-466f-bfa0-b360c787a146)
+
 
 Truthtable:
 Half Subtracter:
-WhatsApp Image 2023-12-29 at 22 57 48_5ffb71c2
+![Screenshot 2023-12-29 232505](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/bc4c6daf-7a6c-4a15-91b3-2f7840b90adf)
+
 
 Full Subtracter:
-WhatsApp Image 2023-12-29 at 22 57 48_7fdeaf1e
+![Screenshot 2023-12-29 232456](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/3f5d09cb-c9d4-4cec-82fe-0ded7c2ed5c7)
+
 
 RTL realization:
 Half Subtracter:
-WhatsApp Image 2023-12-29 at 22 57 48_ab153138
+![Screenshot 2023-12-29 232447](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/33309bb3-aca8-476c-b670-410177477b9a)
+
 
 Full Subtracter:
-WhatsApp Image 2023-12-29 at 22 57 49_3d1691a6
+![Screenshot 2023-12-29 232428](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/4ee10f6f-d85e-42b3-b72b-375c9e045817)
+
 
 Output:
 Half Subtracter:
-WhatsApp Image 2023-12-29 at 22 57 07_f350bdfd
+
+![Screenshot 2023-12-29 232347](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/6bb97f59-973c-45c0-a737-de99b53c024f)
+
 
 Full Subtracter:
 ![Screenshot 2023-12-29 232143](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/e92ab373-c794-4fc9-8a89-a99d0ea50161)
