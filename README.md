@@ -61,7 +61,8 @@ Half Subtracter:
 WhatsApp Image 2023-12-29 at 22 57 07_f350bdfd
 
 Full Subtracter:
-WhatsApp Image 2023-12-29 at 22 57 08_5856f047
+![Screenshot 2023-12-29 232143](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/e92ab373-c794-4fc9-8a89-a99d0ea50161)
+
 
 Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
