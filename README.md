@@ -1,12 +1,8 @@
 # Exp-04 Implementation of Half subtractor and Full subtractor circuit
 ## AIM:Exp-04 Implementation of Half subtractor and Full subtractor circuit
-# Exp-04 Implementation of Half subtractor and Full subtractor circuit
-## AIM:Exp-04 Implementation of Half subtractor and Full subtractor circuit
-Experiment--04-Half-Subtractor-and-Full-subtractor
 Name:KISHORE.A
 Reference number:23008675
 
-Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 
 AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
