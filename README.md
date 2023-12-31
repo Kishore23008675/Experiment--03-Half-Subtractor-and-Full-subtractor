@@ -42,7 +42,7 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 5.End the verilog program using keyword endmodule
 
 ## Program:
-Half Subtracter:
+## Half Subtracter:
 ![Screenshot 2023-12-29 232521](https://github.com/Kishore23008675/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144979375/ae006828-1da2-4b16-b6e7-1687e141026c)
 
 
